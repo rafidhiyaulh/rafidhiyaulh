@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Rafi 👋
 
-<!--
-**rafidhiyaulh/rafidhiyaulh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year student at ITB, mostly working with data and occasionally pretending to understand AI.
 
-Here are some ideas to get you started:
+I like making sense of messy datasets, automating repetitive tasks, and building things that (hopefully) help people make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not debugging, you'll find me on the tennis court, shooting hoops, or with my nose in a book.
+
+## 🔍 Currently curious about
+- Hybrid ML models for time-series prediction
+- How data drives business strategy and decision-making
+- Building products that actually solve real problems
+
+## 🛠️ Usually working with
+Python · SQL · Pandas · Power BI · A lot of trial and error
+
+## 📫 Say hi
+[LinkedIn]([link](https://www.linkedin.com/in/rafidhiyaulh/)) · [Email](mailto:rafidhiyaulh@gmail.com)
+
+---
+*"The goal is to turn data into information, and information into insight."* – Carly Fiorina
