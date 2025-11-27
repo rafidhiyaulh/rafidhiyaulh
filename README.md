@@ -15,7 +15,7 @@ When I'm not debugging, you'll find me on the tennis court, shooting hoops, or w
 Python · SQL · Pandas · Power BI · A lot of trial and error
 
 ## 📫 Say hi
-[LinkedIn]([link](https://www.linkedin.com/in/rafidhiyaulh/)) · [Email](mailto:rafidhiyaulh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rafidhiyaulh/) · [Instagram](https://www.instagram.com/rafidhiyaulh) · [Email](mailto:rafidhiyaulh@gmail.com)
 
 ---
-*"The goal is to turn data into information, and information into insight."* – Carly Fiorina
+*"The only way to do great work is to love what you do."* – Steve Jobs
