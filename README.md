@@ -10,7 +10,7 @@ Final-year student at ITB, mostly working with data and building intelligent app
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Currently Building
 
-**[Worthivo (Founder & CEO)](https://github.com/worthivo-app)**  
+**[Worthivo (Co-Founder & CEO)](https://github.com/worthivo-app)**  
 An AI-powered lifestyle & financial assistant app for household managers.
 *   **Tech:** Flutter, Google Gemini 2.0 Flash, Firebase, RevenueCat.
 *   **Highlight:** Submitted to RevenueCat Shipyard Creator Contest 2026.
