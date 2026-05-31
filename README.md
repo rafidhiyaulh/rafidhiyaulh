@@ -15,11 +15,6 @@ An AI-powered lifestyle & financial assistant app for household managers.
 *   **Tech:** Flutter, Google Gemini 2.0 Flash, Firebase, RevenueCat.
 *   **Highlight:** Submitted to RevenueCat Shipyard Creator Contest 2026.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="30" height="30" /> Currently curious about
-- Hybrid ML models for time-series prediction
-- How data drives business strategy and decision-making
-- Building robust mobile ecosystems (Flutter + AI)
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Usually working with
 
 **Data & AI** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" />
