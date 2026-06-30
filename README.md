@@ -10,11 +10,16 @@ Final-year student at ITB, mostly working with data and building intelligent app
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Currently Building
 
-**[Worthivo (Co-Founder & CEO)](https://github.com/worthivo-app)**  
-An AI-powered lifestyle & financial assistant app for household managers.
+**[Worthivo](https://github.com/worthivo-app) — Co-Founder & CEO**  
+*An AI-powered lifestyle & financial assistant app for household managers.*  
+*RevenueCat Shipyard Creator Contest 2026 (February 2026)*
 
+- Collaborated in a project team to deliver a production-ready mobile application using **Flutter** and **Google Gemini**, applying structured SDLC methodologies to address real-world consumer inflation challenges.
+- Supported the integration of cognitive technologies by implementing a **Vision AI** scanning feature, ensuring reliable API integrations and structured data handling for real-time pricing analysis.
+- Assisted in designing a programmatic freemium business structure using **RevenueCat**, managing metadata configurations, usage quotas, and digital entitlements to maintain application performance.
 
+---
 
-
-
-*"The only way to do great work is to love what you do."* – Steve Jobs
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i> – Steve Jobs
+</p>
