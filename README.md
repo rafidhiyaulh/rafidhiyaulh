@@ -13,6 +13,4 @@ Final-year student at ITB, mostly working with data and building intelligent app
 **[Worthivo (Co-Founder & CEO)](https://github.com/worthivo-app)**  
 An AI-powered lifestyle & financial assistant app for household managers.
 
----
-
 *"The only way to do great work is to love what you do."* – Steve Jobs
