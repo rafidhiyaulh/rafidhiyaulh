@@ -9,14 +9,8 @@ When I'm not debugging, you'll find me on the tennis court, shooting hoops, or w
 **Data Scientist, B2B Operations and Analytics — PT. Indosat Tbk** *(Apr 2026 – Present)*
 - Building predictive models in Python to support B2B workflow decisions and designing dashboards used across cross-functional teams.
 
-**[Worthivo](https://github.com/worthivo-app) — Co-Founder & CEO**
-*An AI-powered lifestyle & financial assistant app for household managers.*
-*RevenueCat Shipyard Creator Contest 2026 (February 2026)*
-- Delivered a production-ready mobile app using **Flutter** and **Google Gemini**, including a **Vision AI** scanning feature for real-time pricing analysis.
-- Designed a programmatic freemium business structure using **RevenueCat**, managing metadata, usage quotas, and digital entitlements.
-
 **Undergraduate Thesis — Hybrid Random Forest–ARIMA Model for Jakarta PM₁₀ Forecasting**
-- Built a hybrid time-series forecasting model with SHAP-based explainability; submitted to IEEE FMLDS 2026 and graded A.
+- Built a hybrid time-series forecasting model with SHAP-based explainability; accepted for presentation at IEEE FMLDS 2026 (Kobe, Japan), graded A.
 
 ## Let's Connect
 
