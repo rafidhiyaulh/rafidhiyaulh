@@ -16,8 +16,8 @@ When I'm not debugging, you'll find me on the tennis court, shooting hoops, or w
 ## What I'm Building
 
 **[Charissa](https://trycharissa.dev)**, Conversational Data Engineering Assistant *(Jul 2026)*
-- Solo-built an LLM-powered data platform that lets organizations analyze confidential data with AI without it ever leaving their infrastructure; deployed end-to-end on Vercel and a self-managed backend.
-- [Live demo](https://trycharissa.dev) · [Source](https://github.com/rafidhiyaulh/charissa)
+- Solo-built an LLM-powered data platform that lets organizations analyze confidential data with AI without it ever leaving their infrastructure; deployed end-to-end on Vercel and a self-managed backend during my time at Indosat.
+- [Source, screenshots & walkthrough](https://github.com/rafidhiyaulh/charissa)
 
 ## Let's Connect
 
