@@ -12,7 +12,7 @@ Outside work: tennis, basketball, and books.
 - **[Charissa](https://github.com/rafidhiyaulh/charissa)**: An AI data assistant that analyzes confidential data without it leaving company infrastructure.
 
 ## Work
-- **PT Indosat Tbk**: Built the data mart and pipelines for Customer 360, an account health view for 5,000+ B2B customers.
+- **PT Indosat Tbk**: Led Customer 360 end to end, an account health tool for 5,000+ B2B customers, from data pipelines to production.
 
 ## Recognition
 - Google APAC Solutions Challenge 2025, Top 10 finalist (team Simutrade)
