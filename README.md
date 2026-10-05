@@ -5,7 +5,7 @@ Data Scientist Apprentice at **PT Indosat Tbk** and a recent Information Systems
 Outside work: tennis, basketball, and books.
 
 ## Research
-- **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. Reduced RMSE by 22.7% over a tuned Random Forest; my undergraduate thesis. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
+- **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. Leakage-free next-day forecasting on 15 years of air quality data: 17% lower RMSE than persistence (statistically significant), with an honest finding that the ARIMA residual stage adds no significant gain over a tuned Random Forest. My undergraduate thesis. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
 
 ## Top Projects
 - **[Bridgewell](https://github.com/bridgewell-app)**: A map that helps rare disease patient groups find others facing the same biology, with a source behind every link (built in 24 hours with a 4-person team, Hack-Nation 2026, OpenAI x Buffalo Initiative challenge). [Live](https://bridgewell-web.pages.dev/)
