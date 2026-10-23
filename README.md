@@ -7,11 +7,6 @@ Outside work: tennis, basketball, and books.
 ## Research
 - **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. Leakage-free next-day forecasting on 15 years of air quality data: 17% lower RMSE than persistence (statistically significant), with an honest finding that the ARIMA residual stage adds no significant gain over a tuned Random Forest. My undergraduate thesis. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
 
-## Top Projects
-- **[Bridgewell](https://github.com/bridgewell-app)**: A map that helps rare disease patient groups find others facing the same biology, with a source behind every link (built in 24 hours with a 4-person team, Hack-Nation 2026, OpenAI x Buffalo Initiative challenge). [Live](https://bridgewell-web.pages.dev/)
-- **[Nginep](https://github.com/rafidhiyaulh/nginep)**: Hotel search for Bali in everyday language, ranked by evidence from guest reviews (0.856 macro-F1 on aspect extraction).
-- **[Charissa](https://github.com/rafidhiyaulh/charissa)**: An AI data assistant that analyzes confidential data without it leaving company infrastructure.
-
 ## Work
 - **PT Indosat Tbk**: Led Customer 360 end to end, an account health tool for 5,000+ B2B customers, from data pipelines to production.
 
