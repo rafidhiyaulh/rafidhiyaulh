@@ -1,14 +1,11 @@
 # Hi, I'm Rafi
 
-Data Scientist Apprentice at **PT Indosat Tbk** and a recent Information Systems graduate from ITB. I enjoy building models and the data pipelines behind them.
+Software Engineer Officer at **PT Indosat Tbk** and a recent Information Systems and Technology graduate from ITB. I enjoy building models and the data pipelines behind them.
 
 Outside work: tennis, basketball, and books.
 
 ## Research
 - **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. Leakage-free next-day forecasting on 15 years of air quality data: 17% lower RMSE than persistence (statistically significant), with an honest finding that the ARIMA residual stage adds no significant gain over a tuned Random Forest. My undergraduate thesis. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
-
-## Work
-- **PT Indosat Tbk**: Led Customer 360 end to end, an account health tool for 5,000+ B2B customers, from data pipelines to production.
 
 ## Recognition
 - Google APAC Solutions Challenge 2025, Top 10 finalist (team Simutrade)
