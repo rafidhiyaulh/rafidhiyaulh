@@ -1,6 +1,6 @@
 # Hi, I'm Rafi
 
-Software Engineer Officer at **PT Indosat Tbk** and a recent Information Systems and Technology graduate from ITB. I enjoy building models and the data pipelines behind them.
+Data Engineer Officer at **PT Indosat Tbk** and a recent Information Systems and Technology graduate from ITB. I enjoy building models and the data pipelines behind them.
 
 Outside work: tennis, basketball, and books.
 
