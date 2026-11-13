@@ -1,16 +1,19 @@
 # Hi, I'm Rafi
 
-Data Engineer Officer at **PT Indosat Tbk** and a recent Information Systems and Technology graduate from ITB. I enjoy building models and the data pipelines behind them.
+I build LLM systems that stay grounded in real data. Data Engineer Officer at **PT Indosat Tbk**, ITB graduate.
 
-Outside work: tennis, basketball, and books.
+## Building
+- **[PERISAI](https://github.com/rafidhiyaulh/perisai)**: claims fraud triage with a guarded 10-agent LLM pipeline. BPJS Kesehatan Healthkathon 2026 finalist. [Demo](https://perisai-beta.vercel.app)
+- **Catto**: multi-agent pipeline that writes, fact-checks and voices science explainers for [@cattobrain](https://www.youtube.com/@cattobrain)
 
 ## Research
-- **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. Leakage-free next-day forecasting on 15 years of air quality data: 17% lower RMSE than persistence (statistically significant), with an honest finding that the ARIMA residual stage adds no significant gain over a tuned Random Forest. My undergraduate thesis. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
+- **Hybrid Random Forest–ARIMA for PM₁₀ Forecasting in Jakarta**, IEEE FMLDS 2026. [Repo](https://github.com/rafidhiyaulh/tugas-akhir)
 
 ## Recognition
-- Google APAC Solutions Challenge 2025, Top 10 finalist (team Simutrade)
-- Pra-Gemastik ITB 2024, 1st place (IoT)
+- BPJS Kesehatan Healthkathon 2026, finalist
+- Google APAC Solutions Challenge 2025, Top 10 Asia-Pacific finalist
 - YED UI 2025, 2nd place (Business Case)
+- Pra-Gemastik ITB 2024, 1st place (IoT)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafidhiyaulh/)
